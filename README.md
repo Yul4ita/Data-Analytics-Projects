@@ -30,7 +30,7 @@
 <br>
 
 - `Analysis of Streaming Platforms.ipynb` – основний ноутбук з аналізом.
-- `Summery report.md` - висновки з аналізу.
+- `Summary report.md` - висновки з аналізу.
 - `README.md` – цей описовий файл.
 </details>
 
