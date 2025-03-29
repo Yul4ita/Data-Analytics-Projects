@@ -25,12 +25,8 @@
 - **Tableau Public** – для створення інтерактивного дашборду
 </details>
 
-<details>
-<summary>Структура Проєкту</summary>
-<br>
+**🗂️Структура Проєкту:**
 
-- `Analysis of Streaming Platforms.ipynb` – основний ноутбук з аналізом. [тут](https://github.com/Yul4ita/PET-project/blob/93d18f551545749465851ddb57685c09b180b0bd/Analysis%20of%20Streaming%20Platforms.ipynb)
-- `Summary report.md` - висновки з аналізу. [тут](./Summary%20Report.md)
+- `Analysis of Streaming Platforms.ipynb` – основний ноутбук з аналізом.
+- `Summary Report.md` - висновки з аналізу. [переглянути](./Summary%20Report.md)
 - `README.md` – цей описовий файл.
-</details>
-
