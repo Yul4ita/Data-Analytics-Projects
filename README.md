@@ -30,8 +30,7 @@
 <br>
 
 - `Analysis of Streaming Platforms.ipynb` – основний ноутбук з аналізом.
-- `Screenshot 2025-03-29 at 13.48.34.png` – скріншот з Tableau дашбордом.
-- `Summery report.md` - висновки з аналізу
+- `Summery report.md` - висновки з аналізу.
 - `README.md` – цей описовий файл.
 </details>
 
