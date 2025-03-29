@@ -8,7 +8,7 @@
 <summary>Дашборт поведінки користувачів</summary>
 <br>  
 
-  [Tableau](https://public.tableau.com/views/Book1_17432524734040/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+  [Переглянути дашборт в Tableau](https://public.tableau.com/views/Book1_17432524734040/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 <img width="1204" alt="Screenshot 2025-03-29 at 13 48 34" src="https://github.com/user-attachments/assets/a5ca3302-951a-4a8c-a854-607d5e0f63c9" />
 
 </details>
