@@ -4,11 +4,10 @@
 
 🔗 **Джерело даних:** [посилання](https://www.kaggle.com/datasets/atharvasoundankar/global-music-streaming-trends-and-listener-insights/data) 
 
-📊 **Візуалізація:** 
 <details>
 <summary>Дашборт поведінки користувачів</summary>
 <br>  
-[Tableau](https://public.tableau.com/views/Book1_17432524734040/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+  [Tableau](https://public.tableau.com/views/Book1_17432524734040/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 
 </details>
 
