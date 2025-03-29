@@ -1,7 +1,7 @@
 ## Проєкт 1: Аналіз музичних платформ та поведінки користувачів | [view code](https://github.com/Yul4ita/PET-project/blob/93d18f551545749465851ddb57685c09b180b0bd/Analysis%20of%20Streaming%20Platforms.ipynb) 
 **Опис проєкту:**
 Метою проєкту було проаналізувати, якими музичними платформами користуються у світі, визначити топ виконавців і жанрів, а також дослідити поведінку користувачів залежно від типу підписки. Особливу увагу приділено вивченню впливу віку та типу підписки на кількість прослуханого часу і збережених пісень.  
-**Джерело даних:** [посилання](https://www.kaggle.com/datasets/atharvasoundankar/global-music-streaming-trends-and-listener-insights/data)
+**Джерело даних:** [посилання](https://www.kaggle.com/datasets/atharvasoundankar/global-music-streaming-trends-and-listener-insights/data)  
 **Візуалізація:** Дашборт поведінки користувачів [Tableau](https://public.tableau.com/views/Book1_17432524734040/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 <details>
 <summary>Використані інстременти</summary>
